@@ -23,14 +23,14 @@ Finalmente se cargan los resultados obtenido en una tabla de Redshift.
    - Completar el archivo `config.json` con el siguiente formato:
 
      ```json
-   {
-      "DB_HOST": "host",
-      "DB_PORT": "port",
-      "DB_DATABASE": "database",
-      "DB_USERNAME": "username",
-      "DB_PASSWORD": "password",
-      "API_KEY": "apikey"
-   }
+      {
+         "DB_HOST": "host",
+         "DB_PORT": "port",
+         "DB_DATABASE": "database",
+         "DB_USERNAME": "username",
+         "DB_PASSWORD": "password",
+         "API_KEY": "apikey"
+      }
      ```
 
 5. **Librerías de Python:**
