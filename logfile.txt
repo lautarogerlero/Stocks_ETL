@@ -12,3 +12,17 @@
 2024-Feb-01-21:20:18, Loading DataFrame into the database...
 2024-Feb-01-21:20:38, Connection closed
 2024-Feb-01-21:20:38, Process finished
+2024-Feb-12-14:09:14, Starting process...
+2024-Feb-12-14:09:14, Calling api for: AMZN
+2024-Feb-12-14:09:15, Calling api for: IBM
+2024-Feb-12-14:09:16, Calling api for: GOOGL
+2024-Feb-12-14:09:16, Calling api for: KO
+2024-Feb-12-14:09:16, Calling api for: MSFT
+2024-Feb-12-14:09:17, Calling api for: NFLX
+2024-Feb-12-14:09:17, Calling api for: TSLA
+2024-Feb-12-14:09:18, Successfully created the DataFrame
+2024-Feb-12-14:09:18, Connecting to the database...
+2024-Feb-12-14:09:20, Successfully connected to the database
+2024-Feb-12-14:09:20, Loading DataFrame into the database...
+2024-Feb-12-14:09:34, Connection closed
+2024-Feb-12-14:09:34, Process finished
